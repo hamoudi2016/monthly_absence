@@ -1,0 +1,13 @@
+{
+    "excel_file":       "mydata.xlsx",
+    "columns_to_read":  ["id" , "name" , "ccp" , "grade" , "category"],
+    "header_Title":     ["ID", "Name", "CCP", "Grade", "Start Date", "End Date", "Days", "Motif", "Category", "Month", "Year"],
+
+    "months":           ["جانفي", "فيفري", "مارس", "أفريل", "ماي", "جوان","جويلية", "أوت", "سبتمبر", "اكتوبر", "نوفمبر", "ديسمبر"],
+    "categorys":        ["الأساتذة","الأساتذة المتعاقدين","الإداريين","العمال المهنيين"],
+
+    "myfont":           "ManaraDocs Amatti Font",
+    "absence_motif":    ["", "عطلة مرضية","عطلة أمومة"],
+    "ecole" :           "متوسطة بزيط محمد",
+    "city":             "أولاد جلال"
+}
